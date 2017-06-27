@@ -1,0 +1,42 @@
+@media(max-width: 1199px){
+	.tech-item {
+	    flex-basis: 16% !important;
+	}
+}
+
+@media(max-width: 991px){
+	.tech-item {
+	    flex-basis: 30% !important;
+	    margin-right: 3% !important;
+	}
+	.technologies{
+		flex-wrap: wrap;
+	}
+	.tools-item{
+		flex-basis: 25% !important;
+	}
+	.media-logo{
+		display: none !important;
+	}
+}
+
+@media(max-width: 640px){
+	.tools-item{
+		flex-basis: 30% !important;
+	}
+}
+
+@media(max-width: 480px){
+	.tech-item {
+	    flex-basis: 47% !important;
+	}
+	.tools-item{
+		flex-basis: 100% !important;
+	}
+}
+
+@media(max-width: 375px){
+	.technologies{
+		display: block !important;
+	}
+}

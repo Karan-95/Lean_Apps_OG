@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="42" viewBox="0 0 52 42">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#5E5E5E">
+            <path d="M14.8 4.8H33v20H14.8z"/>
+            <path d="M19.1 4.8v-4h18.1v19.9h-4.3M23.9 4.8v20M23.9 12h9M23.9 18.1h9"/>
+        </g>
+        <text fill="#5E5E5E" font-family="OpenSans-Semibold, Open Sans" font-size="11" font-weight="500" transform="translate(-6)">
+            <tspan x="5.439" y="39">Prototype</tspan>
+        </text>
+    </g>
+</svg>

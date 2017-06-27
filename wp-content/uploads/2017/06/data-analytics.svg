@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="129" viewBox="0 0 129 129">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <circle cx="63.5" cy="63.5" r="63.5" stroke="#979797"/>
+        <g transform="translate(28 33)">
+            <path stroke="#3D3F44" d="M-.5-.5h71.275v51.196H-.5zM.125 43.294h70.902M48.314 58.867H22.839"/>
+            <g stroke="#3D3F44">
+                <path d="M29.616 58.867V50.71M41.663 58.867V50.71"/>
+            </g>
+            <circle cx="35.639" cy="46.933" r="1.443" stroke="#3D3F44"/>
+            <g stroke="#D74127" transform="translate(16.314 6.275)">
+                <path d="M26.73 11.922l7.152-7.279M15.812 5.647l7.404 6.15M4.769 11.922l7.529-6.4"/>
+                <circle cx="14.18" cy="3.89" r="2.384"/>
+                <circle cx="2.886" cy="13.553" r="2.384"/>
+                <circle cx="24.973" cy="13.553" r="2.384"/>
+                <circle cx="35.765" cy="3.012" r="2.384"/>
+            </g>
+            <path stroke="#3D3F44" d="M17.569 28.863v9.913M7.53 30.118v8.784M62.745 27.608v11.294M28.863 21.95v16.952"/>
+            <path fill="#919191" d="M28.235 20.078v17.57-17.57z"/>
+            <path stroke="#3D3F44" d="M51.451 23.843v15.56M41.412 32.627v6.526"/>
+        </g>
+    </g>
+</svg>

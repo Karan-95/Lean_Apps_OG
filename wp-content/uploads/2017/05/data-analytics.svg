@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="129" viewBox="0 0 129 129">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="63.5" cy="63.5" r="63.5" stroke="#979797" transform="translate(1 1)"/>
+        <g transform="translate(34 37)">
+            <path stroke="#3D3F44" d="M.107.321h60.495v44.216H.107zM.107 38.006h60.495M41.222 53.851H19.487"/>
+            <g stroke="#3D3F44">
+                <path d="M25.269 53.851v-6.959M35.548 53.851v-6.959"/>
+            </g>
+            <ellipse cx="30.408" cy="41.111" stroke="#3D3F44" rx="1.499" ry="1.499"/>
+            <g stroke="#D74127" transform="translate(13.92 6.424)">
+                <path d="M22.806 10.17l6.103-6.209M13.49 4.818l6.318 5.246M4.069 10.17l6.424-5.46"/>
+                <ellipse cx="12.099" cy="3.319" rx="2.034" ry="2.034"/>
+                <ellipse cx="2.463" cy="11.562" rx="2.034" ry="2.034"/>
+                <ellipse cx="21.307" cy="11.562" rx="2.034" ry="2.034"/>
+                <ellipse cx="30.515" cy="2.569" rx="2.034" ry="2.034"/>
+            </g>
+            <path stroke="#3D3F44" d="M16.382 24.838v8.458M7.174 26.658v6.638M53.857 22.804v10.492M25.697 17.665v15.63M44.434 20.02v13.276M35.012 27.728v5.568"/>
+        </g>
+    </g>
+</svg>

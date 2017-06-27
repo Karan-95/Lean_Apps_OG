@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="56" viewBox="0 0 78 56">
+    <g fill="none" fill-rule="evenodd" stroke-width=".75">
+        <g stroke="#5A5F63" transform="translate(6)">
+            <path d="M15.3 48h56V.5H.5V18M15.3 39.3h56"/>
+            <circle cx="35.9" cy="43.9" r="1.5"/>
+            <path d="M22.3 48v7M49.3 48v7M18.5 55H53"/>
+        </g>
+        <path stroke="#5A5F63" d="M24.5 11.4h5.4M26.4 14.1h8.2"/>
+        <path stroke="#D64127" d="M35.8 14.1h3.1"/>
+        <path stroke="#5A5F63" d="M40.1 14.1h13.7M26.4 16.3h6.1"/>
+        <path stroke="#D64127" d="M33.7 16.3h10.2M45.2 16.3h7"/>
+        <path stroke="#5A5F63" d="M24.5 22.7h7.3M26.4 25.4H32M27.3 29.9h5.2"/>
+        <path stroke="#D64127" d="M33.9 29.9h6.5M33.3 25.4h5.6"/>
+        <path stroke="#5A5F63" d="M40.1 25.4h2.5M43.7 25.4h14.6M28.6 27.6h7.3"/>
+        <path stroke="#D64127" d="M37.1 27.6h25"/>
+        <path stroke="#5A5F63" d="M26.4 18.7h12.7M40.4 18.7h21.7M42.1 29.9h11.4M.7 18h20.6v37H.7zM.7 20.9h20.6M.7 49.8h20.6"/>
+        <circle cx="11" cy="52.4" r="1" stroke="#5A5F63"/>
+    </g>
+</svg>

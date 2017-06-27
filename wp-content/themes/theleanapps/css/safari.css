@@ -1,0 +1,11 @@
+@media screen and (min-color-index:0) 
+and(-webkit-min-device-pixel-ratio:0) { @media
+{
+    .tools-item { 
+        width: 14%;
+        margin-right: 2%; 
+    }
+    .tools-item:last-child{
+    	margin-right: 0;
+    }
+}}
